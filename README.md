@@ -1,4 +1,32 @@
-# Paper-Oriented Intelliton Code
+# Intelliton
+
+Intelliton is a research project that investigates whether transformer neural networks support
+stable, quasi-particle-like collective excitation modes — **Intellitons** — inside their residual
+streams.
+
+## GitHub Pages Blog (bilingual)
+
+The project includes a **bilingual popular science blog** hosted on GitHub Pages:
+
+**<https://xiongzhp.github.io/Intelliton/>**
+
+The blog is written in both **English and Chinese** (中英双语). Use the language toggle in the
+top-right corner to switch. Your preferred language is remembered locally in the browser.
+
+### Blog articles
+
+| # | English title | 中文标题 |
+|---|---|---|
+| 1 | What Are Intellitons? | 什么是 Intelliton？ |
+| 2 | Inside Qwen3-4B-Base | 走进 Qwen3-4B-Base |
+| 3 | Scaling and Alignment Through the Intelliton Lens | 用 Intelliton 视角看规模扩展与对齐 |
+| 4 | Hallucination as Internal Instability | 把幻觉理解为内部不稳定性 |
+
+The blog source lives in `docs/` and is powered by Jekyll with a custom bilingual layout.
+
+---
+
+## Research code
 
 This `src/` directory contains the paper-oriented experiment subset for the Intelliton project.
 
